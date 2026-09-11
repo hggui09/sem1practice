@@ -1,1 +1,1 @@
-# sem1practice
+# Версия текста из ветки FEATURE 
